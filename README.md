@@ -1,2 +1,3 @@
-# ReactPractice
-Created with CodeSandbox
+# React学習
+
+Reactについての学習
